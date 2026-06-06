@@ -1,24 +1,22 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212224220090
+# Name: SARAVANA KUMAR S
+# Date: 07.05.26
 
 # AIM:
 To develop the Railway Reservation System using Star UML.
 
 # Problem Statement:
-1.The manual railway ticket booking system is time-consuming, error-prone, and inconvenient for both passengers and railway staff, especially during peak travel periods.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Passengers often face difficulties such as unavailability of real-time seat information, long queues at booking counters, and a lack of transparency in ticket status.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Railway authorities struggle to manage and update train schedules, coach configurations, ticket quotas, and passenger records using traditional systems.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.There is a need for an automated, centralized Railway Reservation System that provides real-time access to train schedules, seat availability, fare details, and booking status.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
-
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -42,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+![Screenshot 2025-05-14 181120](https://github.com/user-attachments/assets/ae97f9b8-7d95-4fb7-9fa8-ee2adfc04814)
 
 
 
@@ -60,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![Screenshot 2025-05-14 180904](https://github.com/user-attachments/assets/9d1bbc0d-8a85-4c8a-a51c-11812dfd8688)
 
 # COMMUNICTION DIAGRAM:
 
@@ -69,6 +69,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+![Screenshot 2025-05-14 181051](https://github.com/user-attachments/assets/a7f6d60c-8cd6-4e38-9575-01d8d608ecc1)
 
 # PACKAGE DIAGRAM:
 
@@ -82,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![Screenshot 2025-05-14 180925](https://github.com/user-attachments/assets/7a43b404-7624-42c7-ab53-959cde5661f0)
 
 
 
@@ -98,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1237" height="896" alt="image" src="https://github.com/user-attachments/assets/8c867cc5-1abc-4697-975e-452967979a0f" />
 
 
 
@@ -120,10 +123,9 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
+![Screenshot 2025-05-14 181100](https://github.com/user-attachments/assets/23956924-e753-4e24-aa0a-080b43c9368c)
 
 
 # RESULT
 
 Thus the project to develop Railway Reservation system was developed using Star UML Software is done successfully.
-
